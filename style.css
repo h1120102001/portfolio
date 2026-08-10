@@ -143,3 +143,12 @@ footer {
   margin-bottom: 12px;
   line-height: 1.8;
 }
+.detail-image-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.detail-image-gallery .detail-img {
+  margin: 0;
+}
